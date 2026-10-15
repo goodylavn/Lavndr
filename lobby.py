@@ -7,5 +7,4 @@ choice = input("Of course(O)/No thanks(N): ")
 if choice.upper() == O:
    print("Buckle up")
 elif choice.upper() == N:
-   print("It's fine, we'll see you next         
-   time!")
+   print("It's fine, we'll see you next time!")
